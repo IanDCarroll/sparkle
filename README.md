@@ -1,4 +1,4 @@
-# sparkle
+# Twilight.sparkle
 Python module for CL text prettification
 
 This is a basic module so that you don't have to remember the ANSI color codes. Yes, I know you can just google them, but with this you just call the color instead.
