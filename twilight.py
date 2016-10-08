@@ -4,5 +4,12 @@ class sparkle(object):
     green = '\033[92m'
     yellow = '\033[93m'
     blue = '\033[94m'
+if __name__ == '__main__':
+    print sparkle.red + 'Red' + sparkle.reset + 'reset'
+'''
+    print sparkle.red + 'Red' + sparkle.reset + 'reset'
+    print sparkle.red + 'Red' + sparkle.reset + 'reset'
+    print sparkle.red + 'Red' + sparkle.reset + 'reset'
+'''
 
 
