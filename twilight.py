@@ -3,7 +3,7 @@ class sparkle(object):
     charcoal = '\033[30m'
     grey = '\033[90m'
     wine = '\033[31m\033[2m'
-    red = '\033[m'
+    red = '\033[31m'
     cherry = '\033[91m'
     bronze = '\033[33m\033[2m'
     gold = '\033[33m'
