@@ -24,7 +24,4 @@ class sparkle(object):
     white = '\033[97m'
 
 if __name__ == '__main__':
-    print sparkle.red + 'Red ' + sparkle.reset + 'reset'
-    print sparkle.yellow + 'Yellow ' + sparkle.reset + 'reset'
-    print sparkle.green + 'Green ' + sparkle.reset + 'reset'
-    print sparkle.blue + 'Blue ' + sparkle.reset + 'reset'
+    print sparkle.wine + '!' + sparkle.reset + sparkle.red + '!' + sparkle.reset + sparkle.cherry + 't' + sparkle.reset + sparkle.bronze + 'w' + sparkle.reset + sparkle.gold + 'i' + sparkle.reset + sparkle.yellow + 'l' + sparkle.reset + sparkle.grass + 'i' + sparkle.reset + sparkle.green + 'g' + sparkle.reset + sparkle.forest + 'h' + sparkle.reset + sparkle.teal + 't' + sparkle.reset + sparkle.cyan + '.' + sparkle.reset + sparkle.sky + 's' + sparkle.reset + sparkle.baby + 'p' + sparkle.reset + sparkle.blue + 'a' + sparkle.reset + sparkle.royal + 'r' + sparkle.reset + sparkle.magenta + 'k' + sparkle.reset + sparkle.purple + 'l' + sparkle.reset + sparkle.violet + 'e' + sparkle.reset + sparkle.white + '!' + sparkle.reset + sparkle.light + '!' + sparkle.reset + sparkle.grey + '!' + sparkle.reset + sparkle.charcoal + '!' + sparkle.reset
